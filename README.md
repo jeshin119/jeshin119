@@ -20,4 +20,4 @@
 ### 📫 Contact
 
 - 📧 Email: jsshin0201@gmail.com
-- 📝 Blog / Portfolio: 
+- 📝 Blog / Portfolio: https://my-port-jeshin.vercel.app/
